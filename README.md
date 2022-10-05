@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooriamehregan
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning web developement.
+- 🌱 I’m currently working/learning as a front-end developer.
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/pooriamehregan/)
 
 <!---
