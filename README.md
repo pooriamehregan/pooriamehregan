@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooriamehregan
 - 👀 I’m interested in software development.
-- 🌱 I’m currently working as a front-end developer.
+- 🌱 I’m currently working as a full-stack developer, with technologies, such as React.js, Next.js, Kotlin, TypeScript, Node.js, MongoDB etc.
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/pooriamehregan/)
 
 <!---
